@@ -1,0 +1,42 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 30px;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+h2 {
+    text-align: center;
+    color: maroon;
+    margin-bottom: 40px;
+    font-size: 2rem;
+}
+
+p {
+    text-align: center;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+.post {
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 60%;
+    margin: auto;
+}
+
+.user {
+    font-size: 1.3rem;
+    color: maroon;
+    margin-bottom: 15px;
+}
+
+.post h4 {
+    font-size: 1.1rem;
+    color: #444;
+    line-height: 1.5;
+}
