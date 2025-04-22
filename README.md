@@ -1,4 +1,5 @@
-# 🧠 bcknd_Quora
+# 🧠 bcknd_Quora_REST API
+
 
 A simple Quora-like post sharing backend app using **Node.js**, **Express**, and **EJS**. Users can create, view, edit, and delete posts. Frontend is styled using custom CSS.
 
